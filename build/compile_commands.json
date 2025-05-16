@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/lockqueue.cc.o -c /home/liyu/code/rpc/src/lockqueue.cc",
+  "file": "/home/liyu/code/rpc/src/lockqueue.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/logger.cc.o -c /home/liyu/code/rpc/src/logger.cc",
+  "file": "/home/liyu/code/rpc/src/logger.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/rpcapplication.cc.o -c /home/liyu/code/rpc/src/rpcapplication.cc",
+  "file": "/home/liyu/code/rpc/src/rpcapplication.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/rpcchannel.cc.o -c /home/liyu/code/rpc/src/rpcchannel.cc",
+  "file": "/home/liyu/code/rpc/src/rpcchannel.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/rpcconfig.cc.o -c /home/liyu/code/rpc/src/rpcconfig.cc",
+  "file": "/home/liyu/code/rpc/src/rpcconfig.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/rpccontroller.cc.o -c /home/liyu/code/rpc/src/rpccontroller.cc",
+  "file": "/home/liyu/code/rpc/src/rpccontroller.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/rpcheader.pb.cc.o -c /home/liyu/code/rpc/src/rpcheader.pb.cc",
+  "file": "/home/liyu/code/rpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/rpcprovider.cc.o -c /home/liyu/code/rpc/src/rpcprovider.cc",
+  "file": "/home/liyu/code/rpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/src",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/rpc.dir/zookeeperutil.cc.o -c /home/liyu/code/rpc/src/zookeeperutil.cc",
+  "file": "/home/liyu/code/rpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/liyu/code/rpc/example/callee/friendservice.cc",
+  "file": "/home/liyu/code/rpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/liyu/code/rpc/example/friend.pb.cc",
+  "file": "/home/liyu/code/rpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/liyu/code/rpc/example/caller/callfriendservice.cc",
+  "file": "/home/liyu/code/rpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/liyu/code/rpc/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/liyu/code/rpc/src -I/home/liyu/code/rpc/src/include -I/home/liyu/code/rpc/example -g -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/liyu/code/rpc/example/friend.pb.cc",
+  "file": "/home/liyu/code/rpc/example/friend.pb.cc"
+}
+]
