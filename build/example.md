@@ -1,2 +1,3 @@
-cmake.. &&
+camke ..
 make
+
